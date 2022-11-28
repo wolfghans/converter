@@ -31,7 +31,12 @@ namespace WindowsAPI
             listBox3.SelectedIndex = listBox3.TopIndex;
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void BtnCon_Click(object sender, EventArgs e)
         {
             try
             {
@@ -46,11 +51,6 @@ namespace WindowsAPI
             {
                 MessageBox.Show("”казаны не все значени€");
             }
-        }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
         }
     }
 }

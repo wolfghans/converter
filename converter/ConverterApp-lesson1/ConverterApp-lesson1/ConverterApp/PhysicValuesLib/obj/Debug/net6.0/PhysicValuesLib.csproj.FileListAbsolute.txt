@@ -34,3 +34,15 @@ C:\Users\admin\source\repos\Cnv\ConverterApp-lesson1\ConverterApp-lesson1\Conver
 C:\Users\admin\source\repos\Cnv\ConverterApp-lesson1\ConverterApp-lesson1\ConverterApp\PhysicValuesLib\obj\Debug\net6.0\refint\PhysicValuesLib.dll
 C:\Users\admin\source\repos\Cnv\ConverterApp-lesson1\ConverterApp-lesson1\ConverterApp\PhysicValuesLib\obj\Debug\net6.0\PhysicValuesLib.pdb
 C:\Users\admin\source\repos\Cnv\ConverterApp-lesson1\ConverterApp-lesson1\ConverterApp\PhysicValuesLib\obj\Debug\net6.0\ref\PhysicValuesLib.dll
+C:\Users\Я)\Desktop\converter\ConverterApp-lesson1\ConverterApp-lesson1\ConverterApp\PhysicValuesLib\bin\Debug\net6.0\PhysicValuesLib.deps.json
+C:\Users\Я)\Desktop\converter\ConverterApp-lesson1\ConverterApp-lesson1\ConverterApp\PhysicValuesLib\bin\Debug\net6.0\PhysicValuesLib.dll
+C:\Users\Я)\Desktop\converter\ConverterApp-lesson1\ConverterApp-lesson1\ConverterApp\PhysicValuesLib\bin\Debug\net6.0\PhysicValuesLib.pdb
+C:\Users\Я)\Desktop\converter\ConverterApp-lesson1\ConverterApp-lesson1\ConverterApp\PhysicValuesLib\obj\Debug\net6.0\PhysicValuesLib.csproj.AssemblyReference.cache
+C:\Users\Я)\Desktop\converter\ConverterApp-lesson1\ConverterApp-lesson1\ConverterApp\PhysicValuesLib\obj\Debug\net6.0\PhysicValuesLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Я)\Desktop\converter\ConverterApp-lesson1\ConverterApp-lesson1\ConverterApp\PhysicValuesLib\obj\Debug\net6.0\PhysicValuesLib.AssemblyInfoInputs.cache
+C:\Users\Я)\Desktop\converter\ConverterApp-lesson1\ConverterApp-lesson1\ConverterApp\PhysicValuesLib\obj\Debug\net6.0\PhysicValuesLib.AssemblyInfo.cs
+C:\Users\Я)\Desktop\converter\ConverterApp-lesson1\ConverterApp-lesson1\ConverterApp\PhysicValuesLib\obj\Debug\net6.0\PhysicValuesLib.csproj.CoreCompileInputs.cache
+C:\Users\Я)\Desktop\converter\ConverterApp-lesson1\ConverterApp-lesson1\ConverterApp\PhysicValuesLib\obj\Debug\net6.0\PhysicValuesLib.dll
+C:\Users\Я)\Desktop\converter\ConverterApp-lesson1\ConverterApp-lesson1\ConverterApp\PhysicValuesLib\obj\Debug\net6.0\refint\PhysicValuesLib.dll
+C:\Users\Я)\Desktop\converter\ConverterApp-lesson1\ConverterApp-lesson1\ConverterApp\PhysicValuesLib\obj\Debug\net6.0\PhysicValuesLib.pdb
+C:\Users\Я)\Desktop\converter\ConverterApp-lesson1\ConverterApp-lesson1\ConverterApp\PhysicValuesLib\obj\Debug\net6.0\ref\PhysicValuesLib.dll
